@@ -191,7 +191,7 @@ textarea {
         width:290px;
     }
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 640px) {
     
     #top {
         width:100%;
